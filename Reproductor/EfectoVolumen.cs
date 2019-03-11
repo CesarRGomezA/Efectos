@@ -10,6 +10,9 @@ namespace Reproductor
     class EfectoVolumen : ISampleProvider
     {
         private float volume;
+
+
+
         public float Volume
         {
             get
